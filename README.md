@@ -3,3 +3,5 @@ june/2026: Currently it is only using Polling Function *will add Interrupt funct
 Development Board Used: stm32f407 Descovery Board
 Coding Style: Bare Metal Embedded c
 NO HAL Used
+IDE used: STM32cubeIDE
+#Current standing: Only Oled driver is working right now and i haven't integrate MPU6050 yet.....(June/2026)
